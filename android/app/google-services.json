@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "504400761702",
+    "project_id": "smartlink-pro",
+    "storage_bucket": "smartlink-pro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504400761702:android:29a4c4b0754c6858a92ea7",
+        "android_client_info": {
+          "package_name": "at.smartlink.manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504400761702-da9t6lvflqpf1htsqpaufluj7ldej0qo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIIO_HwRMwRt_j_TYu_s2NjQ0bufHyv6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504400761702-da9t6lvflqpf1htsqpaufluj7ldej0qo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "504400761702-4f2vd4bl9iosl6q6lh907psopo58ajp1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "at.smartlink.manager.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504400761702:android:38e1f05dfdc8bb20a92ea7",
+        "android_client_info": {
+          "package_name": "com.smartlink.manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504400761702-2h2ffa1qo66lvn6pvo8le3c63kap7291.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartlink.manager",
+            "certificate_hash": "58b1ccc767b83586cb0ea9b95bce5f1e9139de2d"
+          }
+        },
+        {
+          "client_id": "504400761702-da9t6lvflqpf1htsqpaufluj7ldej0qo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIIO_HwRMwRt_j_TYu_s2NjQ0bufHyv6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504400761702-da9t6lvflqpf1htsqpaufluj7ldej0qo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "504400761702-4f2vd4bl9iosl6q6lh907psopo58ajp1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "at.smartlink.manager.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504400761702:android:a1329fe7a8ace162a92ea7",
+        "android_client_info": {
+          "package_name": "com.smartlink.manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504400761702-da9t6lvflqpf1htsqpaufluj7ldej0qo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIIO_HwRMwRt_j_TYu_s2NjQ0bufHyv6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504400761702-da9t6lvflqpf1htsqpaufluj7ldej0qo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "504400761702-4f2vd4bl9iosl6q6lh907psopo58ajp1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "at.smartlink.manager.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

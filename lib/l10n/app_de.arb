@@ -1,0 +1,47 @@
+{
+  "signInPageTitle" : "Willkommen beim Smart Link Manager",
+  "signIn" : "Anmelden",
+  "enterCode" : "Code eingeben",
+  "phoneNumber" : "Telefonnummer",
+  "username" : "Benutzername",
+  "password" : "Passwort",
+  "incorrectUsernameOrPassword" : "Benutzername oder Passwort ist falsch!",
+  "invalidPhoneNumber" : "Die angegebene Telefonnummer ist ungültig.",
+
+  "home" : "Home",
+  "rooms" : "Räume",
+  "guests" : "Gäste",
+  "info" : "Info",
+
+  "allRooms": "Alle Räume",
+  "availableRooms": "Verfügbare Zimmer",
+  "occupiedRooms": "Besetzte Räume",
+  "tickets": "Tickets",
+  "groupChat": "Group Chat",
+  "news": "Neuigkeiten",
+
+  "addGuest" : "Gast hinzufügen",
+  "passportNumber" : "Ausweisnummer",
+  "firstname": "Vorname",
+  "lastname": "Nachname",
+  "sex": "sex",
+  "roomName": "Room Name",
+
+  "addNews": "Neuigkeiten hinzufügen",
+  "newsImages": "Nachrichtenbilder",
+  "addPhoto": "Foto hinzufügen",
+  "newsTitle": "Nachrichtentitel",
+  "newsDescription": "Nachrichtenbeschreibung",
+  "errorRequired" : "Dieses Feld ist erforderlich.",
+  "submit" : "Absenden",
+  "fillAllInputsError" : "Bitte füllen Sie alle erforderlichen Felder aus",
+  "camera" : "Kamera",
+  "gallery" : "Galerie",
+  "returnText" : "Zurück",
+  "newsAddedSuccessfully" : "Neuigkeiten erfolgreich hinzugefügt.",
+
+  "editInfo" : "Info bearbeiten",
+  "infoEditedSuccessfully" : "Info erfolgreich bearbeitet.",
+
+  "end": "END"
+}
